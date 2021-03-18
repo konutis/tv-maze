@@ -1,0 +1,22 @@
+.search-container {
+  display: flex;
+  margin-top: 30px
+}
+
+.search-input {
+  flex-grow: 1;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  padding: 15px 25px;
+}
+
+.search-button {
+  padding: 15px 30px;
+  border: none;
+  border-radius: 0;
+  background: #6897bb;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
